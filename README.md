@@ -1,4 +1,4 @@
-<center><img src="https://wallpapercave.com/dwp1x/wp2841691.jpg" /></center>
+<center><img src="https://wallpapercave.com/dwp1x/wp2841752.jpg" /></center>
 
 <br>
 
@@ -12,11 +12,10 @@
 ---
 
 <br>
-
-- 🖥️ I am interested in Web Development. Stuff like Node.js, Express.js, React, and more!
-- 🌱 I am learning everything I find interesting about Web Development. Currently, I am digging Puppeteer, a Node.js library for web scraping, testing, and automation!
-- 🤝 I love to collab on projects so if you need me, I can lend you a hand in your 💹 **million-dollar-idea** 💹 project!
-- 📫 You can reach me at nguye2nk@mail.uc.edu.
+- 💙 I am a second year computer science student at UC
+- 🖥️ I am interested in Web Development and Block chain
+- 🌱 Currently I'm looking forward to learnmore about Block chain development 
+- 📫 You can reach me at nguye3hg@mail.uc.edu.
 <br>
 
 ---

@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguye3hg&show_icons=true&theme=jolly &count_private=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguye3hg&show_icons=true&theme=react  &count_private=true&include_all_commits=true" />
   </a>
 </div>
   

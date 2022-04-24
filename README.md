@@ -1,4 +1,4 @@
-<center><img src="https://i.ibb.co/GTKxV22/cover-image.png" /></center>
+<center><img src="https://wallpapercave.com/dwp1x/wp2841691.jpg" /></center>
 
 <br>
 

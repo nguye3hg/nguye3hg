@@ -1,4 +1,3 @@
-<img align="center" src="https://wallpapercave.com/dwp1x/wp2841691.jpg" />
 
 <br>
 

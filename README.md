@@ -1,4 +1,4 @@
-<center><img src="https://wallpapercave.com/dwp1x/wp2841752.jpg" /></center>
+<center><img align="center" src="https://wallpapercave.com/dwp1x/wp2841691.jpg" /></center>
 
 <br>
 
@@ -12,14 +12,15 @@
 ---
 
 <br>
-- 💙 I am a second year computer science student at UC
-- 🖥️ I am interested in Web Development and Block chain
-- 🌱 Currently I'm looking forward to learnmore about Block chain development 
+- 🎓 I am currently a second-year student at UC<br>
+- 🖥️ I am interested in Web and BlockChain Development<br>
+- 🌱 I am learning everything I find interesting about Web Development. Currently, I am digging into Web3, a javascript library for blockchain website developement<br>
+- 🤝 I love to collab on projects <br>
 - 📫 You can reach me at nguye3hg@mail.uc.edu.
 <br>
 
 ---
-
+ 
 <br>
 
 <div align="center">
@@ -34,7 +35,6 @@
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="cpp"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="react"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="node" title="node"/>&nbsp; 
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" title="tailwind"/>&nbsp;
 </span>
 </div>
 

@@ -12,10 +12,9 @@
 
 <br>
 - 🎓 I am currently a second-year student at UC<br>
-- 🖥️ I am interested in Web and BlockChain Development<br>
-- 🌱 I am learning everything I find interesting about Web Development. Currently, I am digging into Web3, a javascript library for blockchain website developement<br>
-- 🤝 I love to collab on projects <br>
-- 📫 You can reach me at nguye3hg@mail.uc.edu.
+- 📓 I am interested in Web and BlockChain Development<br>
+- 📀 I am learning everything I find interesting about Web Development. Currently, I am digging into Web3, a javascript library for blockchain website developement<br>
+- 📧 You can reach me at nguye3hg@mail.uc.edu.
 <br>
 
 ---

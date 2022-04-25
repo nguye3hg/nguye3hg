@@ -27,7 +27,6 @@
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="html"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" title="css"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="js"/>&nbsp;
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" title="express"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" title="heroku"/>&nbsp;
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="python"/>&nbsp;
@@ -43,7 +42,7 @@
 
 <br>
 
-## 🔥 Github Streak
+## Github Streak
 
 <div align="center">
   <a href="https://git.io/streak-stats" align="center">
@@ -51,7 +50,7 @@
   </a>
 </div>
   
-## 📈 Github Stats
+## Github Stats
 
 <div align="center">
   <a href="https://git.io/streak-stats" align="center">
@@ -59,7 +58,7 @@
   </a>
 </div>
   
-## 📊 Github Most Used Languages
+## Github Most Used Languages
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" align="center">

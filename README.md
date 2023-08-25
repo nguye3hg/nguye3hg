@@ -11,10 +11,7 @@
 ---
 
 <br>
-- 🎓 I am currently a second-year student at UC<br>
-- 📓 I am interested in Web and BlockChain Development<br>
-- 📀 I am learning everything I find interesting about Web Development. Currently, I am digging into Web3, a javascript library for blockchain website developement<br>
-- 📧 You can reach me at nguye3hg@mail.uc.edu.
+I'm a Computer Science student at UC experienced in Next.js, TypeScript (frontend) and Node.js, Prisma (backend). I thrive on learning and embrace new challenges eagerly. With a strong foundation and a passion for innovation, I'm excited to contribute and expand my horizons in the world of technology.
 <br>
 
 ---
